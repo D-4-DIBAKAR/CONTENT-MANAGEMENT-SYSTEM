@@ -4,15 +4,15 @@ A content management system (CMS) is software that helps users create, manage, a
 
 ## Screenshots📸
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/D-4-DIBAKAR/CONTENT-MANAGEMENT-SYSTEM/assets/71878062/91d0e2c1-5928-4a8d-a073-6abc7957d7b4)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/D-4-DIBAKAR/CONTENT-MANAGEMENT-SYSTEM/assets/71878062/6f32e811-d3cc-4c31-a54e-e248ff412807)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/D-4-DIBAKAR/CONTENT-MANAGEMENT-SYSTEM/assets/71878062/bbec650b-7a9b-43bb-9e88-cd709aed3959)
 
 ## Live at :
 
-(https://cdn.pixabay.com/photo/2016/04/04/14/12/monitor-1307227_1280.jpg)
+https://dibakar-content-management-system.onrender.com
 
 ## Features
 
